@@ -1,3 +1,6 @@
+see cli.py --help for usage
+
+
 checkimg
 ========
 
